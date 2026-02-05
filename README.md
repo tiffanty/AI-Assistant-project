@@ -20,21 +20,18 @@ The system enables organizations to deploy AI agents that can place outbound cal
 
 nAgents is architected as a full-stack, cross-platform system:
 
-A web dashboard for managing agents, workflows, and call activity
+- A web dashboard for managing agents, workflows, and call activity
 
-A native mobile app for real-time monitoring and interaction
+- A native mobile app for real-time monitoring and interaction
 
-A shared backend that coordinates conversation logic, state, and data persistence across platforms
+- A shared backend that coordinates conversation logic, state, and data persistence across platforms
 
 The platform emphasizes:
 
-Scalable agent orchestration
-
-Realtime data synchronization
-
-End-to-end type safety
-
-Extensible AI behavior and conversation flows
+- Scalable agent orchestration
+- Realtime data synchronization
+- End-to-end type safety
+- Extensible AI behavior and conversation flows
 
 This project was developed as part of an internship and reflects production-oriented engineering practices, including monorepo architecture, shared APIs, authentication, and realtime backend infrastructure.
 
