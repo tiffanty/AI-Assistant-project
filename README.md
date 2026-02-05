@@ -11,7 +11,7 @@ featuring:
 - [Convex](https://convex.dev): Backend, database, server functions
 - [Clerk](https://clerk.dev): User authentication
 - OpenAI: Text summarization (optional)
-  
+   
 ## Project Overview
 
 nAgents is an outbound AI voice assistant platform designed to automate and scale human-like phone interactions using intelligent, task-oriented agents.
